@@ -1,6 +1,6 @@
 Hello,
 
-For learning this document you can also purchase book.
+For learning this topic you can also purchase book.
 
 Book details:
 
