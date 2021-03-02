@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<plist>
+	<dict>
+ 		<key>PhoneInterfaceOrientations</key>
+ 			<array>
+  				<string>PhoneInterfaceOrientationPortrait</string>
+  				<string>PhoneInterfaceOrientationLandscapeLeft</string>
+  				<string>PhoneInterfaceOrientationLandscapeRight</string>
+ 			</array>
+ 		<key>UISupportedInterfaceOrientations~ipad</key>
+ 		<array>
+			  <string>UIInterfaceOrientationPortrait</string>
+			  <string>UIInterfaceOrientationPortraitUpsideDown</string>
+			  <string>UIInterfaceOrientationLandscapeLeft</string>
+			  <string>UIInterfaceOrientationLandscapeRight</string>
+ 		</array>
+ 		<key>NSLocationWhenInUseUsageDescription</key>
+    	<string>We need to be able to use location manager to show where you are currently located</string>
+	</dict>
+</plist>
